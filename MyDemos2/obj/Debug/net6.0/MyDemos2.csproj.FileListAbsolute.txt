@@ -1,0 +1,15 @@
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\MyDemos2\MyDemos2\obj\Debug\net6.0\MyDemos2.csproj.AssemblyReference.cache
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\MyDemos2\MyDemos2\obj\Debug\net6.0\MyDemos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\MyDemos2\MyDemos2\obj\Debug\net6.0\MyDemos2.AssemblyInfoInputs.cache
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\MyDemos2\MyDemos2\obj\Debug\net6.0\MyDemos2.AssemblyInfo.cs
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\MyDemos2\MyDemos2\obj\Debug\net6.0\MyDemos2.csproj.CoreCompileInputs.cache
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\MyDemos2\MyDemos2\bin\Debug\net6.0\MyDemos2.exe
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\MyDemos2\MyDemos2\bin\Debug\net6.0\MyDemos2.deps.json
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\MyDemos2\MyDemos2\bin\Debug\net6.0\MyDemos2.runtimeconfig.json
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\MyDemos2\MyDemos2\bin\Debug\net6.0\MyDemos2.dll
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\MyDemos2\MyDemos2\bin\Debug\net6.0\MyDemos2.pdb
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\MyDemos2\MyDemos2\obj\Debug\net6.0\MyDemos2.dll
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\MyDemos2\MyDemos2\obj\Debug\net6.0\refint\MyDemos2.dll
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\MyDemos2\MyDemos2\obj\Debug\net6.0\MyDemos2.pdb
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\MyDemos2\MyDemos2\obj\Debug\net6.0\MyDemos2.genruntimeconfig.cache
+C:\Users\Sandra Gomes\Repos\Meus Repositorios\MyDemos2\MyDemos2\obj\Debug\net6.0\ref\MyDemos2.dll
