@@ -193,7 +193,7 @@ do
 }
 while (diasSemana > 7 || diasSemana < 1);
 
-
+//loop
 //ReadInt - Bool
 
 var isok = Console2.ReadInt("Que dia é hoje?", out int dia);
